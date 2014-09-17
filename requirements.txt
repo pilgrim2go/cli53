@@ -1,3 +1,4 @@
 boto==2.6.0
-argparse
+-e git+https://github.com/pilgrim2go/argparse.git#egg=argparse
+#argparse
 dnspython
